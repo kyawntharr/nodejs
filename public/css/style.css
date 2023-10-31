@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+}
+
+.content{
+    color: rgb(0, 153, 51);
+}
+a{
+    padding: 8px 10px;
+    background-color: rgb(80, 80, 80);
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(110, 110, 110);
+}
+
+button{
+    padding: 8px 10px;
+    background-color: rgb(80, 80, 80);
+    border: none;
+    color: white;
+}
+section{
+    width: 60%;
+    margin: auto auto;
+}
